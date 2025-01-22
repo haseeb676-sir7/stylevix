@@ -20,4 +20,5 @@ StyleVix is a modern, elegant, and responsive web template designed for showcasi
     Optimized for all devices, from mobile to desktop.
 
   install 
-  
+    https://github.com/haseeb676-sir7/stylevix.git
+    cd stylevix
